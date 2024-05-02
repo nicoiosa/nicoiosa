@@ -10,7 +10,4 @@ Soy un apasionado desarrollador dedicado al diseño de interfaces interactivas y
 # 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoiosa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Meme Random
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
